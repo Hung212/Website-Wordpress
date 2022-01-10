@@ -1,0 +1,32 @@
+2021-12-20T17:40:18+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 618ab792051dc
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 399251d2c4
+            [name] => Trần Ngọc Hùng
+            [domain] => http://www.thucphamgiasimienque.com
+            [email_address] => tranngochung0908@gmail.com
+            [currency_code] => VND
+            [money_format] => VND
+            [primary_locale] => vi
+            [timezone] => +07:00
+            [phone] => 0902435120
+            [address] => Array
+                (
+                    [address1] => 45D/3 Hoài Thanh, Phường 14 Quận 8
+                    [city] => Ho Chi Minh
+                    [province] => HCMC
+                    [postal_code] => 700000
+                    [country] => VN
+                    [country_code] => VN
+                    [phone] => 0902435120
+                    [company] => Trần Ngọc Hùng
+                )
+
+        )
+
+)
+

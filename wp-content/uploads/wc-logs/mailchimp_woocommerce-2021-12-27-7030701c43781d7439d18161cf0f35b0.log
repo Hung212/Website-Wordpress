@@ -1,0 +1,346 @@
+2021-12-27T03:53:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T03:53:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 384
+2021-12-27T03:53:49+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T03:56:00+00:00 NOTICE order_sumbit :: #384 has a financial status of pending and was skipped.
+2021-12-27T04:29:36+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T04:29:36+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 387
+2021-12-27T04:29:50+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T04:29:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T04:32:17+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T04:32:19+00:00 NOTICE order_sumbit :: #387 has a financial status of pending and was skipped.
+2021-12-27T05:05:24+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 384
+2021-12-27T05:05:24+00:00 NOTICE debug :: Order ID 384 was pending and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-12-27T05:08:17+00:00 NOTICE order_sumbit :: #384 has a financial status of cancelled and was skipped.
+2021-12-27T05:29:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T05:29:56+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T05:30:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T05:30:17+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T05:59:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T05:59:48+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T06:05:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 387
+2021-12-27T06:05:58+00:00 NOTICE debug :: Order ID 387 was pending and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-12-27T06:08:32+00:00 NOTICE order_sumbit :: #387 has a financial status of cancelled and was skipped.
+2021-12-27T06:22:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T06:22:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 389
+2021-12-27T06:22:47+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T06:24:55+00:00 NOTICE order_sumbit :: #389 has a financial status of pending and was skipped.
+2021-12-27T06:25:27+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T06:26:56+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T06:30:34+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T06:30:56+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T07:17:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T07:19:55+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T08:24:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 389
+2021-12-27T08:24:59+00:00 NOTICE debug :: Order ID 389 was pending and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-12-27T08:39:13+00:00 NOTICE order_sumbit :: #389 has a financial status of cancelled and was skipped.
+2021-12-27T12:54:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T12:55:01+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T13:10:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T13:10:51+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T13:15:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T13:16:06+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T13:23:34+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T13:23:57+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T13:26:26+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 618ab792051dc
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 399251d2c4
+            [name] => Trần Ngọc Hùng
+            [domain] => http://www.thucphamgiasimienque.com
+            [email_address] => tranngochung0908@gmail.com
+            [currency_code] => VND
+            [money_format] => VNĐ
+            [primary_locale] => vi
+            [timezone] => +07:00
+            [phone] => 0902435120
+            [address] => Array
+                (
+                    [address1] => 45D/3 Hoài Thanh, Phường 14 Quận 8
+                    [city] => Ho Chi Minh
+                    [province] => HCMC
+                    [postal_code] => 700000
+                    [country] => VN
+                    [country_code] => VN
+                    [phone] => 0902435120
+                    [company] => Trần Ngọc Hùng
+                )
+
+        )
+
+)
+
+2021-12-27T14:18:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T14:19:03+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T14:49:41+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T14:49:41+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 391
+2021-12-27T14:51:14+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T14:51:16+00:00 NOTICE order_sumbit :: #391 has a financial status of pending and was skipped.
+2021-12-27T15:19:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-27T15:19:45+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-27T15:41:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 9
+2021-12-27T15:41:38+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 4e03feeb9198c04ef0950600224a4175
+2021-12-27T15:41:47+00:00 NOTICE member.sync :: Updated Member jefferiese17167@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+        )
+
+)
+
+2021-12-27T15:41:49+00:00 NOTICE abandoned_cart.success :: email: jefferiese17167@gmail.com :: checkout_url: http://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=4e03feeb9198c04ef0950600224a4175
+2021-12-27T15:41:50+00:00 NOTICE cart.member.updated :: Updated jefferiese17167@gmail.com subscriber status to subscribed and language to vi
+2021-12-27T15:41:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 4e03feeb9198c04ef0950600224a4175
+2021-12-27T15:42:07+00:00 NOTICE abandoned_cart.success :: email: jefferiese17167@gmail.com :: checkout_url: http://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=4e03feeb9198c04ef0950600224a4175
+2021-12-27T15:47:58+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 618ab792051dc
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 399251d2c4
+            [name] => Trần Ngọc Hùng
+            [domain] => http://www.thucphamgiasimienque.com
+            [email_address] => tranngochung0908@gmail.com
+            [currency_code] => VND
+            [money_format] => VNĐ
+            [primary_locale] => vi
+            [timezone] => +07:00
+            [phone] => 0902435120
+            [address] => Array
+                (
+                    [address1] => 45D/3 Hoài Thanh, Phường 14 Quận 8
+                    [city] => Ho Chi Minh
+                    [province] => HCMC
+                    [postal_code] => 700000
+                    [country] => VN
+                    [country_code] => VN
+                    [phone] => 0902435120
+                    [company] => Trần Ngọc Hùng
+                )
+
+        )
+
+)
+
+2021-12-27T15:50:55+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 10
+2021-12-27T15:50:59+00:00 NOTICE member.sync :: Subscribed Member evancurtissi63689@gmail.com :: Array
+(
+    [status_if_new] => 1
+    [merge_fields] => Array
+        (
+        )
+
+)
+
+2021-12-27T15:51:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 11
+2021-12-27T15:51:44+00:00 NOTICE member.sync :: Subscribed Member gracestri20344@gmail.com :: Array
+(
+    [status_if_new] => 1
+    [merge_fields] => Array
+        (
+        )
+
+)
+
+2021-12-27T15:52:49+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 618ab792051dc
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 399251d2c4
+            [name] => Trần Ngọc Hùng
+            [domain] => http://www.thucphamgiasimienque.com
+            [email_address] => tranngochung0908@gmail.com
+            [currency_code] => VND
+            [money_format] => VNĐ
+            [primary_locale] => vi
+            [timezone] => +07:00
+            [phone] => 0902435120
+            [address] => Array
+                (
+                    [address1] => 45D/3 Hoài Thanh, Phường 14 Quận 8
+                    [city] => Ho Chi Minh
+                    [province] => HCMC
+                    [postal_code] => 700000
+                    [country] => VN
+                    [country_code] => VN
+                    [phone] => 0902435120
+                    [company] => Trần Ngọc Hùng
+                )
+
+        )
+
+)
+
+2021-12-27T15:53:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id f465a62e4f7c86f9382830abcbdd1da4
+2021-12-27T15:54:01+00:00 NOTICE abandoned_cart.success :: email: gracestri20344@gmail.com :: checkout_url: http://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=f465a62e4f7c86f9382830abcbdd1da4
+2021-12-27T15:54:02+00:00 NOTICE cart.member.updated :: Updated gracestri20344@gmail.com subscriber status to subscribed and language to vi
+2021-12-27T15:54:56+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 618ab792051dc
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 399251d2c4
+            [name] => Trần Ngọc Hùng
+            [domain] => http://www.thucphamgiasimienque.com
+            [email_address] => tranngochung0908@gmail.com
+            [currency_code] => VND
+            [money_format] => VNĐ
+            [primary_locale] => vi
+            [timezone] => +07:00
+            [phone] => 0902435120
+            [address] => Array
+                (
+                    [address1] => 45D/3 Hoài Thanh, Phường 14 Quận 8
+                    [city] => Ho Chi Minh
+                    [province] => HCMC
+                    [postal_code] => 700000
+                    [country] => VN
+                    [country_code] => VN
+                    [phone] => 0902435120
+                    [company] => Trần Ngọc Hùng
+                )
+
+        )
+
+)
+
+2021-12-27T15:56:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id f465a62e4f7c86f9382830abcbdd1da4
+2021-12-27T15:56:56+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 11
+2021-12-27T15:56:57+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 394
+2021-12-27T15:56:58+00:00 NOTICE abandoned_cart.success :: email: gracestri20344@gmail.com :: checkout_url: http://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=f465a62e4f7c86f9382830abcbdd1da4
+2021-12-27T15:56:59+00:00 NOTICE debug :: Order ID 394 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-12-27T15:56:59+00:00 NOTICE member.sync :: Updated Member gracestri20344@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Hieu
+            [LNAME] => Dong
+        )
+
+)
+
+2021-12-27T15:58:56+00:00 NOTICE system.debug :: order 394 is in on-hold status, and is being skipped for now.
+2021-12-27T16:19:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 391
+2021-12-27T16:19:07+00:00 NOTICE debug :: Order ID 391 was pending and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-12-27T16:21:04+00:00 NOTICE order_sumbit :: #391 has a financial status of cancelled and was skipped.
+2021-12-27T16:34:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2021-12-27T16:34:44+00:00 NOTICE member.sync :: Updated Member kazamakristsugaya@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Trần
+            [LNAME] => Hùng
+        )
+
+)
+
+2021-12-27T16:43:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2021-12-27T16:43:53+00:00 NOTICE member.sync :: Updated Member kazamakristsugaya@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Trần
+            [LNAME] => Hùng
+        )
+
+)
+
+2021-12-27T16:44:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2021-12-27T16:44:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2021-12-27T16:44:52+00:00 NOTICE member.sync :: Updated Member kazamakristsugaya@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Trần
+            [LNAME] => Hùng
+        )
+
+)
+
+2021-12-27T16:44:53+00:00 NOTICE member.sync :: Updated Member kazamakristsugaya@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Trần
+            [LNAME] => Hùng
+        )
+
+)
+
+2021-12-27T16:45:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2021-12-27T16:45:38+00:00 NOTICE member.sync :: Updated Member kazamakristsugaya@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Trần
+            [LNAME] => Hùng
+        )
+
+)
+
+2021-12-27T16:46:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2021-12-27T16:46:41+00:00 NOTICE member.sync :: Updated Member kazamakristsugaya@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Trần
+            [LNAME] => Hùng
+        )
+
+)
+
+2021-12-27T18:02:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 7d8a2debe0864777ed8bc432955001f6
+2021-12-27T18:03:38+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 11802037d828b36676fa745a7e594761
+2021-12-27T18:03:45+00:00 NOTICE abandoned_cart.success :: email: handley28295@gmail.com :: checkout_url: http://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=7d8a2debe0864777ed8bc432955001f6
+2021-12-27T18:03:46+00:00 NOTICE cart.member.updated :: Updated handley28295@gmail.com subscriber status to transactional and language to vi
+2021-12-27T18:03:47+00:00 NOTICE abandoned_cart.success :: email: tranngochung0908@gmail.com :: checkout_url: http://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=11802037d828b36676fa745a7e594761
+2021-12-27T18:03:48+00:00 NOTICE cart.member.updated :: Updated tranngochung0908@gmail.com subscriber status to subscribed and language to vi
+2021-12-27T18:04:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 7d8a2debe0864777ed8bc432955001f6
+2021-12-27T18:04:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 7d8a2debe0864777ed8bc432955001f6
+2021-12-27T18:04:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 395
+2021-12-27T18:05:14+00:00 NOTICE abandoned_cart.success :: email: handley28295@gmail.com :: checkout_url: http://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=7d8a2debe0864777ed8bc432955001f6
+2021-12-27T18:05:15+00:00 NOTICE abandoned_cart.success :: email: handley28295@gmail.com :: checkout_url: http://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=7d8a2debe0864777ed8bc432955001f6
+2021-12-27T18:08:10+00:00 NOTICE order_sumbit :: #395 has a financial status of pending and was skipped.
+2021-12-27T19:27:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 395
+2021-12-27T19:27:03+00:00 NOTICE debug :: Order ID 395 was pending and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-12-27T19:41:12+00:00 NOTICE order_sumbit :: #395 has a financial status of cancelled and was skipped.

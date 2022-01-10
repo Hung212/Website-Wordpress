@@ -1,0 +1,14 @@
+2021-12-15T15:46:58+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in /home/h5uc8imzt6ln/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/RestApi.php:64
+Stack trace:
+#0 /home/h5uc8imzt6ln/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractBlock.php(379): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 /home/h5uc8imzt6ln/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 /home/h5uc8imzt6ln/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractBlock.php(317): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 /home/h5uc8imzt6ln/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_asset in /home/h5uc8imzt6ln/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/RestApi.php on line 64
+
+2021-12-15T16:56:39+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in /home/h5uc8imzt6ln/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/RestApi.php:64
+Stack trace:
+#0 /home/h5uc8imzt6ln/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractBlock.php(379): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 /home/h5uc8imzt6ln/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 /home/h5uc8imzt6ln/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractBlock.php(317): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 /home/h5uc8imzt6ln/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_asset in /home/h5uc8imzt6ln/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/RestApi.php on line 64
+

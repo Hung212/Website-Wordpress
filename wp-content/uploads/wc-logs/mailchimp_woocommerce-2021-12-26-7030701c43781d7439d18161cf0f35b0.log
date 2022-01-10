@@ -1,0 +1,176 @@
+2021-12-26T18:00:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 7
+2021-12-26T18:00:58+00:00 NOTICE member.sync :: Updated Member tranhung0908@outlook.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+        )
+
+)
+
+2021-12-26T18:15:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 7
+2021-12-26T18:16:42+00:00 NOTICE member.sync :: Updated Member tranhung0908@outlook.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+        )
+
+)
+
+2021-12-26T18:22:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 7
+2021-12-26T18:22:49+00:00 NOTICE member.sync :: Updated Member tranhung0908@outlook.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+        )
+
+)
+
+2021-12-26T18:23:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 7
+2021-12-26T18:23:26+00:00 NOTICE member.sync :: Updated Member tranhung0908@outlook.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+        )
+
+)
+
+2021-12-26T18:29:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-26T18:29:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 380
+2021-12-26T18:29:26+00:00 NOTICE debug :: Order ID 380 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://www.thucphamgiasimienque.com/wp-admin/admin-ajax.php?action=mailchimp_set_user_by_email&email=kazamakristsugaya@gmail.com&mc_language=vi
+        )
+
+)
+
+2021-12-26T18:29:56+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-26T18:31:47+00:00 NOTICE order.member.updated :: Updated abbart@gmail.com subscriber status to transactional and language to vi
+2021-12-26T18:31:47+00:00 NOTICE order_submit.success :: addStoreOrder :: #380 :: email: abbart@gmail.com :: landing site http://www.thucphamgiasimienque.com/wp-admin/admin-ajax.php?action=mailchimp_set_user_by_email&email=kazamakristsugaya@gmail.com&mc_language=vi
+2021-12-26T18:42:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2021-12-26T18:42:49+00:00 NOTICE member.sync :: Updated Member kazamakristsugaya@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+        )
+
+)
+
+2021-12-26T18:48:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 9abca4513e71987c7f4941399e49477a
+2021-12-26T18:50:41+00:00 NOTICE abandoned_cart.success :: email: kazamakristsugaya@gmail.com :: checkout_url: https://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=9abca4513e71987c7f4941399e49477a
+2021-12-26T18:50:42+00:00 NOTICE cart.member.updated :: Updated kazamakristsugaya@gmail.com subscriber status to subscribed and language to vi
+2021-12-26T18:52:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 9abca4513e71987c7f4941399e49477a
+2021-12-26T18:53:44+00:00 NOTICE abandoned_cart.success :: email: kazamakristsugaya@gmail.com :: checkout_url: https://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=9abca4513e71987c7f4941399e49477a
+2021-12-26T18:54:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 9abca4513e71987c7f4941399e49477a
+2021-12-26T18:54:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 9abca4513e71987c7f4941399e49477a
+2021-12-26T18:54:16+00:00 NOTICE abandoned_cart.success :: email: kazamakristsugaya@gmail.com :: checkout_url: https://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=9abca4513e71987c7f4941399e49477a
+2021-12-26T18:54:18+00:00 NOTICE abandoned_cart.success :: email: kazamakristsugaya@gmail.com :: checkout_url: https://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=9abca4513e71987c7f4941399e49477a
+2021-12-26T18:54:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2021-12-26T18:54:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 381
+2021-12-26T18:54:44+00:00 NOTICE member.sync :: Updated Member kazamakristsugaya@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Trần
+            [LNAME] => Hùng
+        )
+
+)
+
+2021-12-26T18:54:54+00:00 NOTICE debug :: Order ID 381 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://www.thucphamgiasimienque.com/?wc-ajax=get_refreshed_fragments
+        )
+
+)
+
+2021-12-26T18:56:26+00:00 NOTICE order.member.updated :: Updated kazamakristsugaya@gmail.com subscriber status to subscribed and language to vi
+2021-12-26T18:56:26+00:00 NOTICE order_submit.success :: addStoreOrder :: #381 :: email: kazamakristsugaya@gmail.com :: landing site https://www.thucphamgiasimienque.com/?wc-ajax=get_refreshed_fragments :: abandoned cart deleted [9abca4513e71987c7f4941399e49477a]
+2021-12-26T18:59:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2021-12-26T19:00:03+00:00 NOTICE debug :: Order ID 381 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-12-26T19:00:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 381
+2021-12-26T19:06:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 9abca4513e71987c7f4941399e49477a
+2021-12-26T19:06:50+00:00 NOTICE member.sync :: Updated Member kazamakristsugaya@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Trần
+            [LNAME] => Hùng
+        )
+
+)
+
+2021-12-26T19:06:56+00:00 NOTICE order.member.updated :: Updated kazamakristsugaya@gmail.com subscriber status to subscribed and language to 
+2021-12-26T19:06:56+00:00 NOTICE order_submit.success :: updateStoreOrder :: #381 :: email: kazamakristsugaya@gmail.com
+2021-12-26T19:06:58+00:00 NOTICE abandoned_cart.success :: email: kazamakristsugaya@gmail.com :: checkout_url: https://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=9abca4513e71987c7f4941399e49477a
+2021-12-26T19:12:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2021-12-26T19:12:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 382
+2021-12-26T19:12:49+00:00 NOTICE member.sync :: Updated Member kazamakristsugaya@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Trần
+            [LNAME] => Hùng
+        )
+
+)
+
+2021-12-26T19:13:08+00:00 NOTICE debug :: Order ID 382 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://www.thucphamgiasimienque.com/?wc-ajax=wc_stripe_get_cart_details
+        )
+
+)
+
+2021-12-26T19:14:51+00:00 NOTICE order.member.updated :: Updated kazamakristsugaya@gmail.com subscriber status to subscribed and language to vi
+2021-12-26T19:14:51+00:00 NOTICE order_submit.success :: addStoreOrder :: #382 :: email: kazamakristsugaya@gmail.com :: landing site https://www.thucphamgiasimienque.com/?wc-ajax=wc_stripe_get_cart_details :: abandoned cart deleted [9abca4513e71987c7f4941399e49477a]
+2021-12-26T19:16:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 9abca4513e71987c7f4941399e49477a
+2021-12-26T19:16:22+00:00 NOTICE abandoned_cart.success :: email: kazamakristsugaya@gmail.com :: checkout_url: http://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=9abca4513e71987c7f4941399e49477a
+2021-12-26T19:18:01+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2021-12-26T19:18:01+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 383
+2021-12-26T19:18:26+00:00 NOTICE member.sync :: Updated Member kazamakristsugaya@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Trần
+            [LNAME] => Hùng
+        )
+
+)
+
+2021-12-26T19:19:54+00:00 NOTICE order_sumbit :: #383 has a financial status of pending and was skipped.
+2021-12-26T19:25:04+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2021-12-26T19:25:06+00:00 NOTICE member.sync :: Updated Member kazamakristsugaya@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Trần
+            [LNAME] => Hùng
+        )
+
+)
+
+2021-12-26T20:24:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 383
+2021-12-26T20:24:54+00:00 NOTICE debug :: Order ID 383 was pending and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-12-26T20:31:27+00:00 NOTICE order_sumbit :: #383 has a financial status of cancelled and was skipped.

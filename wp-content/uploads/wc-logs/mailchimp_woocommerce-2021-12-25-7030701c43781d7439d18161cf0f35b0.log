@@ -1,0 +1,107 @@
+2021-12-25T18:24:46+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 618ab792051dc
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 399251d2c4
+            [name] => Trần Ngọc Hùng
+            [domain] => http://www.thucphamgiasimienque.com
+            [email_address] => tranngochung0908@gmail.com
+            [currency_code] => VND
+            [money_format] => VNĐ
+            [primary_locale] => vi
+            [timezone] => +07:00
+            [phone] => 0902435120
+            [address] => Array
+                (
+                    [address1] => 45D/3 Hoài Thanh, Phường 14 Quận 8
+                    [city] => Ho Chi Minh
+                    [province] => HCMC
+                    [postal_code] => 700000
+                    [country] => VN
+                    [country_code] => VN
+                    [phone] => 0902435120
+                    [company] => Trần Ngọc Hùng
+                )
+
+        )
+
+)
+
+2021-12-25T18:28:01+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 618ab792051dc
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 399251d2c4
+            [name] => Trần Ngọc Hùng
+            [domain] => http://www.thucphamgiasimienque.com
+            [email_address] => tranngochung0908@gmail.com
+            [currency_code] => VND
+            [money_format] => VNĐ
+            [primary_locale] => vi
+            [timezone] => +07:00
+            [phone] => 0902435120
+            [address] => Array
+                (
+                    [address1] => 45D/3 Hoài Thanh, Phường 14 Quận 8
+                    [city] => Ho Chi Minh
+                    [province] => HCMC
+                    [postal_code] => 700000
+                    [country] => VN
+                    [country_code] => VN
+                    [phone] => 0902435120
+                    [company] => Trần Ngọc Hùng
+                )
+
+        )
+
+)
+
+2021-12-25T18:28:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 379
+2021-12-25T18:29:28+00:00 NOTICE product_submit.success :: addStoreProduct :: #379
+2021-12-25T18:36:06+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 618ab792051dc
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 399251d2c4
+            [name] => Trần Ngọc Hùng
+            [domain] => http://www.thucphamgiasimienque.com
+            [email_address] => tranngochung0908@gmail.com
+            [currency_code] => VND
+            [money_format] => VNĐ
+            [primary_locale] => vi
+            [timezone] => +07:00
+            [phone] => 0902435120
+            [address] => Array
+                (
+                    [address1] => 45D/3 Hoài Thanh, Phường 14 Quận 8
+                    [city] => Ho Chi Minh
+                    [province] => HCMC
+                    [postal_code] => 700000
+                    [country] => VN
+                    [country_code] => VN
+                    [phone] => 0902435120
+                    [company] => Trần Ngọc Hùng
+                )
+
+        )
+
+)
+
+2021-12-25T18:37:50+00:00 NOTICE product.deleted :: deleted product 379
+2021-12-25T18:39:01+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 132
+2021-12-25T18:39:48+00:00 NOTICE product_submit.success :: updateStoreProduct :: #132
+2021-12-25T18:40:36+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 132
+2021-12-25T18:41:02+00:00 NOTICE product_submit.success :: updateStoreProduct :: #132
+2021-12-25T18:53:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-25T18:53:49+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-25T18:57:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-25T18:58:03+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php

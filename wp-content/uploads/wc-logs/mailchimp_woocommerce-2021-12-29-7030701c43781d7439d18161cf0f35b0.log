@@ -1,0 +1,78 @@
+2021-12-29T01:38:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id f465a62e4f7c86f9382830abcbdd1da4
+2021-12-29T01:38:47+00:00 NOTICE abandoned_cart.success :: email: gracestri20344@gmail.com :: checkout_url: http://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=f465a62e4f7c86f9382830abcbdd1da4
+2021-12-29T01:38:49+00:00 NOTICE cart.member.updated :: Updated gracestri20344@gmail.com subscriber status to subscribed and language to vi
+2021-12-29T01:40:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 398
+2021-12-29T01:40:07+00:00 NOTICE debug :: Order ID 398 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://www.thucphamgiasimienque.com/tai-khoan/
+        )
+
+)
+
+2021-12-29T01:42:26+00:00 NOTICE order.member.updated :: Updated gracestri20344@gmail.com subscriber status to subscribed and language to vi
+2021-12-29T01:42:26+00:00 NOTICE order_submit.success :: addStoreOrder :: #398 :: email: gracestri20344@gmail.com :: landing site http://www.thucphamgiasimienque.com/tai-khoan/ :: abandoned cart deleted [f465a62e4f7c86f9382830abcbdd1da4]
+2021-12-29T01:59:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 7d8a2debe0864777ed8bc432955001f6
+2021-12-29T02:00:44+00:00 NOTICE abandoned_cart.success :: email: handley28295@gmail.com :: checkout_url: http://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=7d8a2debe0864777ed8bc432955001f6
+2021-12-29T02:00:45+00:00 NOTICE cart.member.updated :: Updated handley28295@gmail.com subscriber status to subscribed and language to vi
+2021-12-29T02:01:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 16
+2021-12-29T02:01:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 399
+2021-12-29T02:01:29+00:00 NOTICE debug :: Order ID 399 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://www.thucphamgiasimienque.com/?wc-ajax=get_refreshed_fragments
+        )
+
+)
+
+2021-12-29T02:02:11+00:00 NOTICE member.sync :: Updated Member handley28295@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Nguyễn
+            [LNAME] => Huy
+        )
+
+)
+
+2021-12-29T02:02:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 7d8a2debe0864777ed8bc432955001f6
+2021-12-29T02:02:48+00:00 NOTICE abandoned_cart.success :: email: handley28295@gmail.com :: checkout_url: http://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=7d8a2debe0864777ed8bc432955001f6
+2021-12-29T02:03:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 16
+2021-12-29T02:03:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 400
+2021-12-29T02:03:48+00:00 NOTICE order.member.updated :: Updated handley28295@gmail.com subscriber status to subscribed and language to vi
+2021-12-29T02:03:48+00:00 NOTICE order_submit.success :: addStoreOrder :: #399 :: email: handley28295@gmail.com :: landing site http://www.thucphamgiasimienque.com/?wc-ajax=get_refreshed_fragments :: abandoned cart deleted [7d8a2debe0864777ed8bc432955001f6]
+2021-12-29T02:03:48+00:00 NOTICE debug :: Order ID 400 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://www.thucphamgiasimienque.com/?wc-ajax=wc_stripe_get_cart_details
+        )
+
+)
+
+2021-12-29T02:03:50+00:00 NOTICE member.sync :: Updated Member handley28295@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Nguyễn
+            [LNAME] => Huy
+        )
+
+)
+
+2021-12-29T02:04:59+00:00 NOTICE debug :: Order ID 400 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-12-29T02:10:51+00:00 NOTICE order.member.updated :: Updated handley28295@gmail.com subscriber status to subscribed and language to vi
+2021-12-29T02:10:51+00:00 NOTICE order_submit.success :: addStoreOrder :: #400 :: email: handley28295@gmail.com :: landing site http://www.thucphamgiasimienque.com/?wc-ajax=wc_stripe_get_cart_details

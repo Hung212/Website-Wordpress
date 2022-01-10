@@ -1,0 +1,63 @@
+2021-12-28T15:35:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 7d8a2debe0864777ed8bc432955001f6
+2021-12-28T15:36:44+00:00 NOTICE abandoned_cart.success :: email: handley28295@gmail.com :: checkout_url: http://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=7d8a2debe0864777ed8bc432955001f6
+2021-12-28T15:36:45+00:00 NOTICE cart.member.updated :: Updated handley28295@gmail.com subscriber status to transactional and language to vi
+2021-12-28T15:37:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 7d8a2debe0864777ed8bc432955001f6
+2021-12-28T15:37:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 396
+2021-12-28T15:37:45+00:00 NOTICE abandoned_cart.success :: email: handley28295@gmail.com :: checkout_url: http://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=7d8a2debe0864777ed8bc432955001f6
+2021-12-28T15:37:50+00:00 NOTICE debug :: Order ID 396 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://www.thucphamgiasimienque.com/danh-muc-san-pham/thuc-pham/thit-heo/
+        )
+
+)
+
+2021-12-28T15:37:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 16
+2021-12-28T15:38:05+00:00 NOTICE member.sync :: Updated Member handley28295@gmail.com :: Array
+(
+    [previous_status] => transactional
+    [status] => 1
+    [merge_fields] => Array
+        (
+            [FNAME] => Nguyễn
+            [LNAME] => Huy
+        )
+
+)
+
+2021-12-28T15:38:51+00:00 NOTICE debug :: Order ID 396 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-12-28T15:39:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-12-28T15:39:57+00:00 ERROR member.sync :: admin@thucphamgiasimienque.com :: Error Code 400 :: admin@thucphamgiasimienque.com is in a compliance state due to unsubscribe, bounce, or compliance review and cannot be subscribed. on 1898 in /home/h5uc8imzt6ln/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-12-28T15:40:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 7d8a2debe0864777ed8bc432955001f6
+2021-12-28T15:40:52+00:00 NOTICE order.member.updated :: Updated handley28295@gmail.com subscriber status to subscribed and language to vi
+2021-12-28T15:40:52+00:00 NOTICE order_submit.success :: addStoreOrder :: #396 :: email: handley28295@gmail.com :: landing site http://www.thucphamgiasimienque.com/danh-muc-san-pham/thuc-pham/thit-heo/
+2021-12-28T15:40:53+00:00 NOTICE abandoned_cart.success :: email: handley28295@gmail.com :: checkout_url: http://www.thucphamgiasimienque.com/thanh-toan/?mc_cart_id=7d8a2debe0864777ed8bc432955001f6
+2021-12-28T15:41:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 16
+2021-12-28T15:41:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 397
+2021-12-28T15:41:35+00:00 NOTICE member.sync :: Updated Member handley28295@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Nguyễn
+            [LNAME] => Huy
+        )
+
+)
+
+2021-12-28T15:42:56+00:00 NOTICE order_sumbit :: #397 has a financial status of pending and was skipped.
+2021-12-28T17:03:24+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 397
+2021-12-28T17:03:24+00:00 NOTICE debug :: Order ID 397 was pending and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-12-28T17:19:28+00:00 NOTICE order_sumbit :: #397 has a financial status of cancelled and was skipped.
